@@ -12,9 +12,9 @@ const maleState = {
 
 const femaleState = {
     imgSrc: '../images/john-female.png',
-    name: 'John Female',
+    name: 'John Doe',
     gender: 'Female',
-    alt: 'John Female'
+    alt: 'John Doe'
 };
 
 let isMale = true;
@@ -22,7 +22,7 @@ let isMale = true;
 toggleButton.addEventListener('click', () => {
     const state = isMale ? femaleState : maleState;
     img.src = state.imgSrc;
-    img.alt = state.alt; 
+    img.alt = state.alt;
     title.textContent = state.name;
     genderText.textContent = state.gender;
     isMale = !isMale;
