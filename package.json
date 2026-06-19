@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "verifying the git set-up : )",
+  "homepage": "https://github.com/LVaishnavi/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/LVaishnavi/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVaishnavi/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "Vaishnavi",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
