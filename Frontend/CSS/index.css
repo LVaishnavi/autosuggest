@@ -20,3 +20,25 @@ h3,h4{
     color: green;
 
 }
+.Navbar{
+    background-color: red;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    font-size: 25px;
+
+}
+.Navbar a{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.Navbar a:hover{
+    color: rgb(222, 215, 215);
+}
+
+body{
+    margin: 0;
+    background-color: rgb(242, 238, 238);
+}
