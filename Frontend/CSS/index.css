@@ -2,3 +2,21 @@ h1 {
     color: red;
     
 }
+#heading2{
+    color: blue;
+}
+h3,h4{
+    color: purple;
+}
+.heading{
+    color: yellow;
+}
+.para{
+
+    border: 2px dotted black;
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+    color: green;
+
+}
