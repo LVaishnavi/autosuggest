@@ -1,7 +1,9 @@
 
-
+h1{
+    color: blue;
+}
 .Navbar{
-    background-color: red;
+    background: linear-gradient(135deg, #4A90E2, #003366);
     color: white;
     padding: 25px;
     text-align: center;
