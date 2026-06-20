@@ -1,0 +1,36 @@
+.maincontent{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 20px;
+}
+.gear{
+    top: 20px;
+    left: 20px;
+    position: absolute;
+}
+.pill{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+#logo{
+    color: rgb(70, 25, 146);
+}
+
+#search{
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: gray;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.lens{
+    position: relative;
+    left: 40px;
+    top: 3px;
+}
