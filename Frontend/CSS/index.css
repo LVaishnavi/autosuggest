@@ -35,3 +35,6 @@ body{
 .card img{
     width: 100%;
 }
+.autoHeading{
+    color: red;
+}
